@@ -1,6 +1,6 @@
 ### 👋 Hello! You've found my profile!
 
-I'm currently working on [Deck Master](https://github.com/seattleowl/deck-master), a HTML5 card-based rouge-like.
+I'm currently working on [Magic Gardens](https://github.com/seattleowl/magic-gardens), a top-down shoot-em'up made in [Godot](https://godotengine.org/).
 
 #### Links
 Website: https://seattleowl.com
