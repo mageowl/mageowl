@@ -4,8 +4,6 @@ I'm a 10 year old game developer/pixel artist in training. I'm most fluent in  J
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seattleowl&theme=shades-of-purple&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seattleowl&theme=shades-of-purple&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Links
 Website: https://seattleowl.com<br>
 Scratch profile: [@seattleowl](https://scratch.mit.edu/users/seattleowl)
