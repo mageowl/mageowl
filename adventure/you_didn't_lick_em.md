@@ -1,0 +1,3 @@
+# Chairs
+
+Ugggg.... Fine. I'll taste the stupid chairs. \*_liiiick_\* Yuck, they taste like old dust...
