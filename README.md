@@ -9,7 +9,8 @@ I'm a 12 year old game developer/pixel artist in training. I'm most fluent in  J
 ![Metrics](github-metrics.svg)
 
 ## Links
-Website: https://seattleowl.com<br>
+Website: https://mageowlstudios.com<br>
 Scratch profile: [@seattleowl](https://scratch.mit.edu/users/seattleowl)
+Itch profile: [@mageowl](https://mageowl.itch.io)
 
 #### 🦉 <- This is Owl. He watches my profile for me.
