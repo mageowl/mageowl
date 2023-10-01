@@ -13,4 +13,4 @@ Website: https://mageowlstudios.com<br>
 Scratch profile: [@seattleowl](https://scratch.mit.edu/users/seattleowl)
 Itch profile: [@mageowl](https://mageowl.itch.io)
 
-#### 🦉 <- This is Owl. He watches my profile for me.
+#### 🦉 <- This is Aaron. He watches my profile for me.
