@@ -4,10 +4,6 @@ I'm a 13 year old game developer/pixel artist in training. I'm most fluent in  J
 
 [Take me on an adventure 🧭](adventure/start.md)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mageowl&theme=shades-of-purple&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](github-metrics.svg)
-
 ## Links
 Website: https://mageowlstudios.com<br>
 Scratch profile: [@seattleowl](https://scratch.mit.edu/users/seattleowl)
