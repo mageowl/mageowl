@@ -1,6 +1,6 @@
 ## 👋 Hello! You've found my profile!
 
-I'm a 14 year old game developer/pixel artist in training. I'm most fluent in  JavaScript. My favorite animal is an owl 🦉, hence my website. Most of my games are made in JavaScript, but I've used Godot and Unity too. For art I use [Aseprite](https://aseprite.org). Hope you like my games.
+I'm a 14 year old game developer/pixel artist in training. I'm most fluent in  JavaScript. My favorite animal is an owl 🦉, hence my website. Most of my games are made in Godot, but I've used HTML and Unity too. For art I use [Aseprite](https://aseprite.org). Hope you like my games.
 
 [Take me on an adventure 🧭](adventure/start.md)
 
